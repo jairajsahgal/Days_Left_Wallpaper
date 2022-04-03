@@ -1,0 +1,5 @@
+appscript==1.2.0
+lxml==4.8.0
+numpy==1.21.5
+opencv-python==4.5.5.64
+py-wallpaper==0.1.0
